@@ -1,0 +1,60 @@
+[general]
+live_config_reload = true
+
+[window]
+padding = { x = 10, y = 10 }
+dynamic_padding = true
+
+[cursor]
+style = { shape = "Beam", blinking = "On" }
+
+[font]
+size = 12.5
+
+[font.offset]
+x = 0
+y = -3
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "Medium"
+
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+style = "Bold"
+
+[font.italic]
+family = "JetBrainsMono Nerd Font"
+style = "Italic"
+
+[colors.primary]
+foreground = "#ffffff"
+background = "#15151a"
+
+[colors.cursor]
+text = "#15151a"
+cursor = "#ffffff"
+
+[colors.selection]
+text = "#15151a"
+background = "#d9d9db"
+
+[colors.normal]
+black = "#3b4252"
+red = "#bf616a"
+green = "#a3be8c"
+yellow = "#ebcb8b"
+blue = "#81a1c1"
+magenta = "#b48ead"
+cyan = "#88c0d0"
+white = "#e5f9f0"
+
+[colors.bright]
+black = "#4c566a"
+red = "#bf616a"
+green = "#a3be8c"
+yellow = "#ebcb8b"
+blue = "#81a1c1"
+magenta = "#b48ead"
+cyan = "#8fbcbb"
+white = "#eceff4"
